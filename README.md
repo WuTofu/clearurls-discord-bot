@@ -29,5 +29,8 @@ It is very straightforward to host this yourself. If you do, I would love to kno
 6. Copy the token from the Bot tab and paste `TOKEN=[your clipboard here]` into a file named `.env`
 7. Run with `python main.py`
 
+## Terms of Service
+Do unto others as you would have them do unto you.
+
 ## Privacy Policy
-I collect zero information.
+I collect no personal information. The only information recorded is the aggregated statistics on the [metrics dashboard](https://danielzting.github.io/clearurls-discord-bot/metrics/).
